@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Komal Kumari 👋
 
-<!--
-**Komal-Kumari-582/Komal-Kumari-582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to My CodeFolio Portfolio!
 
-Here are some ideas to get you started:
+I'm passionate about technology, learning, and building creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Portfolio – CodeFolio
+
+CodeFolio is my personal portfolio website where I showcase my projects, skills, experience, and achievements.
+
+## 🚀 My Goals
+- Build creative projects
+- Improve my technical skills
+- Learn new technologies
+
+## 🌐 My Website
+My CodeFolio Portfolio: [Add your website link here]
+
+## 📌 Skills
+- Web Development
+- HTML
+- CSS
+- JavaScript
